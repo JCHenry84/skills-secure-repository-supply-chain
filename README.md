@@ -1,47 +1,37 @@
-# Secure your repository's supply chain
+<div align="center">
 
-_Secure your supply chain, understand dependencies in your environment, know about vulnerabilities in those dependencies and patch them._
+# 🎉 Congratulations JCHenry84! 🎉
 
-## Welcome
+<img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
-GitHub helps you secure your supply chain, from understanding the dependencies in your environment, to knowing about vulnerabilities in those dependencies and patching them.
+### 🌟 You've successfully completed the exercise! 🌟
 
-- **Who this is for**: Developers, DevOps Engineers, Site Reliability Engineers, Security experts
-- **What you'll learn**: How to view repository dependencies, view Dependabot alerts, and enable Dependabot security and version updates
-- **What you'll build**: Repository dependencies, Dependabot alerts, pull requests to fix dependencies and version updates
-- **Prerequisites**: None
-- **Timing**: This exercise can be completed in under an hour
+## 🚀 Share Your Success!
 
-In this exercise, you will explore:
+**Show off your new skills and inspire others!**
 
-1. Dependency graph
-2. Dependency alerts
-3. Dependency security updates
-4. Dependency versions updates
+<a href="https://twitter.com/intent/tweet?text=I%20just%20completed%20the%20%22Secure%20your%20Repository%20Supply%20Chain%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2FJCHenry84%2Fskills-secure-repository-supply-chain%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20X-1da1f2?style=for-the-badge&logo=x&logoColor=white" alt="Share on X" />
+</a>
+<a href="https://bsky.app/intent/compose?text=I%20just%20completed%20the%20%22Secure%20your%20Repository%20Supply%20Chain%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2FJCHenry84%2Fskills-secure-repository-supply-chain%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20Bluesky-0085ff?style=for-the-badge&logo=bluesky&logoColor=white" alt="Share on Bluesky" />
+</a>
+<a href="https://www.linkedin.com/feed/?shareActive=true&text=I%20just%20completed%20the%20%22Secure%20your%20Repository%20Supply%20Chain%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2FJCHenry84%2Fskills-secure-repository-supply-chain%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Share on LinkedIn" />
+</a>
 
-### How to start this exercise
+### 🎯 What's Next?
 
-Simply copy the exercise to your account, then give your favorite Octocat (Mona) **about 20 seconds** to prepare the first lesson, then **refresh the page**.
+**Keep the momentum going!**
 
-[![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=skills&template_name=secure-repository-supply-chain&owner=%40me&name=skills-secure-repository-supply-chain&description=Exercise:+Secure+your+Repository+Supply+Chain&visibility=public)
+[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/JCHenry84/skills-secure-repository-supply-chain/issues/1)
+[![GitHub Skills](https://img.shields.io/badge/Explore%20GitHub%20Skills-000000?style=for-the-badge&logo=github&logoColor=white)](https://learn.github.com/skills)
 
-<details>
-<summary>Having trouble? 🤷</summary><br/>
+*There's no better way to learn than building things!* 🚀
 
-When copying the exercise, we recommend the following settings:
-
-- For owner, choose your personal account or an organization to host the repository.
-
-- We recommend creating a public repository, since private repositories will use Actions minutes.
-
-If the exercise isn't ready in 20 seconds, please check the [Actions](../../actions) tab.
-
-- Check to see if a job is running. Sometimes it simply takes a bit longer.
-
-- If the page shows a failed job, please submit an issue. Nice, you found a bug! 🐛
-
-</details>
+</div>
 
 ---
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+
